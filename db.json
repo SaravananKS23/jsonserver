@@ -1,0 +1,60 @@
+[
+    {
+        "name": "Shirts",
+        "category": "men's clothing",
+        "img": "https://image3.mouthshut.com/images/ImagesR/imageuser_m/2022/7/925640223-1680386-1.jpeg?rnd=84602",
+        "price": "500",
+        "id": 1
+      },
+      {
+      "name": "Morden dress",
+      "category": "women's clothing",
+      "img": "https://image3.mouthshut.com/images/ImagesR/imageuser_m/2021/12/925640223-6930769-1.jpeg?rnd=84602",
+      "price": "400",
+      "id": 2
+    },
+    {
+        "name": "Mens Shoes",
+        "category": "Footwear",
+        "img": "https://image3.mouthshut.com/images/ImagesR/imageuser_m/2022/4/925640223-8829045-1.JPG?rnd=84602",
+        "price": "800",
+        "id": 3
+      },
+      {
+        "name": "Womens Slippers",
+        "category": "Footwear",
+        "img": "https://image3.mouthshut.com/images/ImagesR/2022/3/925640223-336612-1.jpg?rnd=84602",
+        "price": "300",
+        "id": 4
+      },
+      {
+        "name": "Mobiles",
+        "category": "Electronics",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTRK0L-Jxb0sRUxut0-I4aU0YkuJYClrZ6zXQ&usqp=CAU",
+        "price": "5000",
+        "id": 8
+      },
+      {
+        "name": "Sound Bars",
+        "category": "Electronics",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRE-pFaf9SknczjHpho2P4NRSMnxSZ1zrfYUg&usqp=CAU",
+        "price": "3000",
+        "id": 7
+      },
+      {
+        "name": "TV Units",
+        "category": "Decor",
+        "img": "https://rukminim1.flixcart.com/image/200/200/jjn6d8w0/tv-entertainment-unit/d/h/p/particle-board-arizona-100001413atv-home-full-wenge-with-frosty-original-imaf76dhwg94detb.jpeg?q=70",
+        "price": "2000",
+        "id": 6
+      },
+
+      {
+      "name": "Washing Machines",
+      "category": "Electronics",
+      "img": "https://www.lg.com/in/images/washing-machines/md07540887/gallery/FHM1408BDL-Washing-Machines-Front-View-D-01-v1.jpg",
+      "price": "30000",
+      "id": 5
+    }
+
+  ]
