@@ -1,4 +1,5 @@
-[
+{
+  "products": [
     {
         "name": "Shirts",
         "category": "men's clothing",
@@ -58,3 +59,4 @@
     }
 
   ]
+}
